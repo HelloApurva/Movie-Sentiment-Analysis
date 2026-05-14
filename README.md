@@ -148,6 +148,22 @@ This project can be further improved by implementing:
 - Web App Deployment using Streamlit
 
 ---
+## ▶️ How to Run the Project
+
+```bash
+# Clone the repository
+git clone https://github.com/HelloApurva/Movie-Sentiment-Analysis.git
+
+# Move into project folder
+cd Movie-Sentiment-Analysis
+
+# Install required libraries
+pip install -r requirements.txt
+
+# Open Jupyter Notebook
+jupyter notebook
+
+---
 
 # 👩‍💻 Author
 
