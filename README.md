@@ -162,7 +162,7 @@ pip install -r requirements.txt
 
 # Open Jupyter Notebook
 jupyter notebook
-
+```
 ---
 
 # 👩‍💻 Author
