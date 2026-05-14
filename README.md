@@ -120,6 +120,11 @@ The models were evaluated using:
 - Accuracy Comparison Graphs
 
 ---
+# Visualisation
+![Logistic_Regression](images/Best algo confusion matrics.png)
+![Accuracy_Comparison](images/accuracy comparison.png)
+
+---
 
 # 📁 Project Files Included
 
