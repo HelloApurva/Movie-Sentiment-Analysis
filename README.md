@@ -153,7 +153,6 @@ This project can be further improved by implementing:
 
 ## Apoorva Sharma
 
-🎓 B.Sc. (Hons.) Mathematics  
 📍 New Delhi, India  
 💡 Interested in Data Science, NLP, AI & Machine Learning
 
